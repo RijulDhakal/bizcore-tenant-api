@@ -1,0 +1,12 @@
+/Users/rijul/Documents/bizcore/BizCore.Domain/bin/Debug/net8.0/BizCore.Domain.deps.json
+/Users/rijul/Documents/bizcore/BizCore.Domain/bin/Debug/net8.0/BizCore.Domain.dll
+/Users/rijul/Documents/bizcore/BizCore.Domain/bin/Debug/net8.0/BizCore.Domain.pdb
+/Users/rijul/Documents/bizcore/BizCore.Domain/obj/Debug/net8.0/BizCore.Domain.csproj.AssemblyReference.cache
+/Users/rijul/Documents/bizcore/BizCore.Domain/obj/Debug/net8.0/BizCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rijul/Documents/bizcore/BizCore.Domain/obj/Debug/net8.0/BizCore.Domain.AssemblyInfoInputs.cache
+/Users/rijul/Documents/bizcore/BizCore.Domain/obj/Debug/net8.0/BizCore.Domain.AssemblyInfo.cs
+/Users/rijul/Documents/bizcore/BizCore.Domain/obj/Debug/net8.0/BizCore.Domain.csproj.CoreCompileInputs.cache
+/Users/rijul/Documents/bizcore/BizCore.Domain/obj/Debug/net8.0/BizCore.Domain.dll
+/Users/rijul/Documents/bizcore/BizCore.Domain/obj/Debug/net8.0/refint/BizCore.Domain.dll
+/Users/rijul/Documents/bizcore/BizCore.Domain/obj/Debug/net8.0/BizCore.Domain.pdb
+/Users/rijul/Documents/bizcore/BizCore.Domain/obj/Debug/net8.0/ref/BizCore.Domain.dll

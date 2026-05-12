@@ -1,0 +1,17 @@
+/Users/rijul/Documents/bizcore/BizCore.Application/bin/Debug/net8.0/BizCore.Application.deps.json
+/Users/rijul/Documents/bizcore/BizCore.Application/bin/Debug/net8.0/BizCore.Application.dll
+/Users/rijul/Documents/bizcore/BizCore.Application/bin/Debug/net8.0/BizCore.Application.pdb
+/Users/rijul/Documents/bizcore/BizCore.Application/bin/Debug/net8.0/BizCore.Domain.dll
+/Users/rijul/Documents/bizcore/BizCore.Application/bin/Debug/net8.0/BizCore.Shared.dll
+/Users/rijul/Documents/bizcore/BizCore.Application/bin/Debug/net8.0/BizCore.Domain.pdb
+/Users/rijul/Documents/bizcore/BizCore.Application/bin/Debug/net8.0/BizCore.Shared.pdb
+/Users/rijul/Documents/bizcore/BizCore.Application/obj/Debug/net8.0/BizCore.Application.csproj.AssemblyReference.cache
+/Users/rijul/Documents/bizcore/BizCore.Application/obj/Debug/net8.0/BizCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rijul/Documents/bizcore/BizCore.Application/obj/Debug/net8.0/BizCore.Application.AssemblyInfoInputs.cache
+/Users/rijul/Documents/bizcore/BizCore.Application/obj/Debug/net8.0/BizCore.Application.AssemblyInfo.cs
+/Users/rijul/Documents/bizcore/BizCore.Application/obj/Debug/net8.0/BizCore.Application.csproj.CoreCompileInputs.cache
+/Users/rijul/Documents/bizcore/BizCore.Application/obj/Debug/net8.0/BizCore..AB0A6D41.Up2Date
+/Users/rijul/Documents/bizcore/BizCore.Application/obj/Debug/net8.0/BizCore.Application.dll
+/Users/rijul/Documents/bizcore/BizCore.Application/obj/Debug/net8.0/refint/BizCore.Application.dll
+/Users/rijul/Documents/bizcore/BizCore.Application/obj/Debug/net8.0/BizCore.Application.pdb
+/Users/rijul/Documents/bizcore/BizCore.Application/obj/Debug/net8.0/ref/BizCore.Application.dll

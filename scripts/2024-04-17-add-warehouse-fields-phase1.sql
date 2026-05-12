@@ -1,0 +1,26 @@
+-- Warehouse Enhancement Phase 1
+
+ALTER TABLE "Warehouses" ADD COLUMN IF NOT EXISTS "Code" VARCHAR(20);
+ALTER TABLE "Warehouses" ADD COLUMN IF NOT EXISTS "Address" TEXT;
+ALTER TABLE "Warehouses" ADD COLUMN IF NOT EXISTS "Type" INTEGER NOT NULL DEFAULT 0;
+ALTER TABLE "Warehouses" ADD COLUMN IF NOT EXISTS "Status" INTEGER NOT NULL DEFAULT 0;
+ALTER TABLE "Warehouses" ADD COLUMN IF NOT EXISTS "AllowNegativeStock" BOOLEAN NOT NULL DEFAULT FALSE;
+ALTER TABLE "Warehouses" ADD COLUMN IF NOT EXISTS "IsActive" BOOLEAN NOT NULL DEFAULT TRUE;
+
+ALTER TABLE "Warehouses" ADD COLUMN IF NOT EXISTS "City" VARCHAR(100);
+ALTER TABLE "Warehouses" ADD COLUMN IF NOT EXISTS "District" VARCHAR(100);
+ALTER TABLE "Warehouses" ADD COLUMN IF NOT EXISTS "ContactPerson" VARCHAR(100);
+ALTER TABLE "Warehouses" ADD COLUMN IF NOT EXISTS "ContactPhone" VARCHAR(20);
+
+DO $$
+DECLARE
+    counter INTEGER := 1;
+    wh RECORD;
+BEGIN
+    FOR wh IN SELECT "Id" FROM "Warehouses" ORDER BY "CreatedAt" ASC LOOP
+        UPDATE "Warehouses" SET "Code" = 'WH-' || LPAD(counter::TEXT, 3, '0') WHERE "Id" = wh."Id";
+        counter := counter + 1;
+    END LOOP;
+END $$;
+
+CREATE UNIQUE INDEX IF NOT EXISTS "IX_Warehouses_Code_TenantId" ON "Warehouses"("Code", "TenantId") WHERE "Code" IS NOT NULL;

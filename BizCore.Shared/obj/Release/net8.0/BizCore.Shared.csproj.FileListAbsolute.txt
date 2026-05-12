@@ -1,0 +1,11 @@
+/Users/rijul/Documents/bizcore/BizCore.Shared/bin/Release/net8.0/BizCore.Shared.deps.json
+/Users/rijul/Documents/bizcore/BizCore.Shared/bin/Release/net8.0/BizCore.Shared.dll
+/Users/rijul/Documents/bizcore/BizCore.Shared/bin/Release/net8.0/BizCore.Shared.pdb
+/Users/rijul/Documents/bizcore/BizCore.Shared/obj/Release/net8.0/BizCore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rijul/Documents/bizcore/BizCore.Shared/obj/Release/net8.0/BizCore.Shared.AssemblyInfoInputs.cache
+/Users/rijul/Documents/bizcore/BizCore.Shared/obj/Release/net8.0/BizCore.Shared.AssemblyInfo.cs
+/Users/rijul/Documents/bizcore/BizCore.Shared/obj/Release/net8.0/BizCore.Shared.csproj.CoreCompileInputs.cache
+/Users/rijul/Documents/bizcore/BizCore.Shared/obj/Release/net8.0/BizCore.Shared.dll
+/Users/rijul/Documents/bizcore/BizCore.Shared/obj/Release/net8.0/refint/BizCore.Shared.dll
+/Users/rijul/Documents/bizcore/BizCore.Shared/obj/Release/net8.0/BizCore.Shared.pdb
+/Users/rijul/Documents/bizcore/BizCore.Shared/obj/Release/net8.0/ref/BizCore.Shared.dll

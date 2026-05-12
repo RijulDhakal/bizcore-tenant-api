@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KkNgZVZPwxg=",
+  "success": true,
+  "projectFilePath": "/Users/rijul/Documents/bizcore/scripts/PasswordHashGen/PasswordHashGen.csproj",
+  "expectedPackageFiles": [
+    "/Users/rijul/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

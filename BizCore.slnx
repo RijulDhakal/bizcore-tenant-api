@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BizCore.API/BizCore.API.csproj" />
+  <Project Path="BizCore.Application/BizCore.Application.csproj" />
+  <Project Path="BizCore.Domain/BizCore.Domain.csproj" />
+  <Project Path="BizCore.Infrastructure/BizCore.Infrastructure.csproj" />
+  <Project Path="BizCore.Shared/BizCore.Shared.csproj" />
+</Solution>
