@@ -25,7 +25,7 @@ namespace BizCore.Infrastructure.Data.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
-            modelBuilder.Entity("BizCore.Domain.Entities.ApplicationUser", b =>
+            moadelBuilder.Entity("BizCore.Domain.Entities.ApplicationUser", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
